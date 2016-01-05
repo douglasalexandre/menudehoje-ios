@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "9fc705c02e9eec7af2de9f7b468cd72f"
+build_time: [505278828, 323060000]
+inputs:
+  "/iOS Projects/Github repositories/Menu De Hoje/Menu De Hoje/SecondViewController.swift": [505278825, 0]
+  "/iOS Projects/Github repositories/Menu De Hoje/Menu De Hoje/FirstViewController.swift": [505278825, 0]
+  "/iOS Projects/Github repositories/Menu De Hoje/Menu De Hoje/AppDelegate.swift": [505278825, 0]
